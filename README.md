@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🔭 I’m currently working on a application for scanning pages using your phone, but with an addition of sending those files to your pc for easier management.
 
 <!--
 **Tony-Mogoa/Tony-Mogoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
