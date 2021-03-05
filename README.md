@@ -1,6 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on an epub book reader embedded with an offline dictionary.
-####### ⚡ Will come in handy the next time you're reading one of Charles Dickens' on your phone.  
+### 🌱 Curently busy with school work.  
 
 <!--
 **Tony-Mogoa/Tony-Mogoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
