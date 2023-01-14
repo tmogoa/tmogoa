@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 Curently busy with school work.  
+### 🌱 This is my GitHub Profile 
 
 <!--
 **Tony-Mogoa/Tony-Mogoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
